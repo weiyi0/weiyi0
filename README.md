@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @weiyi0
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+你好
 
-<!---
-weiyi0/weiyi0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+我是 weiyi
+
+希望能和你做朋友
+
+谢谢你的访问
